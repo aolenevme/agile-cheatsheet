@@ -17,7 +17,7 @@ Telegram: https://t.me/aolenev
 
 The word “Scrum” is taken from rugby and denotes a team game method that allows you to take possession of the ball and lead it further across the field, and this requires coherence, unity of intent and a clear understanding of the goal.
 
-# I. Agile\`s basics
+# I. The Agile\`s basics
 > Most people in your company do their best doing their job. 
 > They want their colleagues and leaders to see that they are well performing their tasks. 
 > When someone reaches a certain level of comfort at work and knows it thoroughly, 
@@ -44,3 +44,17 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 10. Simplicity–the art of maximizing the amount of work not done–is essential. Keep it simple, stupid. You aren`t gonna need it. The simpler, the better.
 11. The best architectures, requirements, and designs emerge from self-organizing teams.
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+# II. Scrum
+> A Pig and a Chicken are walking down the road.
+  The Chicken says: "Hey Pig, I was thinking we should open a restaurant!"
+  Pig replies: "Hm, maybe, what would we call it?"
+  The Chicken responds: "How about 'ham-n-eggs'?"
+  The Pig thinks for a moment and says: "No thanks. I'd be committed, but you'd only be involved."
+
+## 1. Scrum\`s values
+1. **Commitment.** Members personally commit to achieving the goals of the team.
+2. **Respect.** Members respect each other to be capable, independent people.
+3. **Focus.** Everyone focuses on the work.
+4. **Openness.** A team agrees to be open about the work and challenges.
+5. **Courage.** A team has courage to do right things and point at problems.
