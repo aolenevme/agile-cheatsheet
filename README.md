@@ -70,3 +70,9 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
    * Most important for the customer or future consumer.
    * Bring the maximum income.
    * The easiest way to implement.
+  
+## 4. Adaptivity
+1. **Feedback rocks.** Sophisticated adaptive systems focus on the environment.
+2. **Do not flatter yourself with your plan.** All shit, and it can't be worse. Make decisions at [the last responsible moment](https://innolution.com/resources/glossary/last-responsible-moment-lrm).
+3. **PDCA cycle (Plan-Do-Check-Act).** Plan. Follow the plan. Compare the result with expectations. Adjust the plan and method of work based on errors. Repeat.
+4. **OODA cycle (Observation-Orientation-Decision-Action).** Determine where you are, be aware of the options available, make a choice and act!
