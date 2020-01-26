@@ -61,3 +61,12 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 
 ## 2. System
 1. **Scrum blames not the player, but the system that became source of the error, and corrects it.** Changing team productivity gives a much greater effect than the productivity of individual employees.
+
+## 3. Value
+1. **Maximum efficiency.** Try to figure out how to bring the most value in the shortest time with the least effort.
+2. **Product\`s concept.** This is what you can offer, sell and what you really want to do.
+3. **Immediate value.** The list of tasks is endless, therefore, tasks should be selected according to the following scenario:
+  * Of the greatest importance to the progress of the project.
+  * Most important for the customer or future consumer.
+  * Bring the maximum income.
+  * The easiest way to implement.
