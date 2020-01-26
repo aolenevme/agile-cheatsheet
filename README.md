@@ -17,6 +17,13 @@ Telegram: https://t.me/aolenev
 
 The word “Scrum” is taken from rugby and denotes a team game method that allows you to take possession of the ball and lead it further across the field, and this requires coherence, unity of intent and a clear understanding of the goal.
 
+# I. Agile\`s basics
+> Most people in your company do their best doing their job. 
+> They want their colleagues and leaders to see that they are well performing their tasks. 
+> When someone reaches a certain level of comfort at work and knows it thoroughly, 
+> the last thing they would like is for someone to come and make them work differently.
+> — Andrew Stellman "Applied Software Project Management"
+
 ## 1. Manifesto for Agile Software Development
 1. **Individuals and interactions** over processes and tools
 2. **Working software over** comprehensive documentation
