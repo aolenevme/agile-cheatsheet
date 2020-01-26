@@ -13,4 +13,7 @@ Telegram: https://t.me/aolenev
 ~~~
 
 ## Foreword
-[logo]: https://www.rugbytoday.com/sites/default/files/styles/article_main_image__715px_wide_/public/reader-posts/scrum1.jpg?itok=3Nqvgtvc "Logo Title Text 2"
+![Scrum rugby](./images/scrum-rugby.jpg)
+
+The word “Scrum” is taken from rugby and denotes a team game method that allows you to take possession of the ball and lead it further across the field, and this requires coherence, unity of intent and a clear understanding of the goal.
+
