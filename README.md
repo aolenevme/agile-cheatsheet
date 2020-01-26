@@ -58,3 +58,6 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 3. **Focus.** Everyone focuses on the work.
 4. **Openness.** A team agrees to be open about the work and challenges.
 5. **Courage.** A team has courage to do right things and point at problems.
+
+## 2. System
+1. **Scrum blames not the player, but the system that became source of the error, and corrects it.** Changing team productivity gives a much greater effect than the productivity of individual employees.
