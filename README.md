@@ -76,3 +76,14 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 2. **Do not flatter yourself with your plan.** All shit, and it can't be worse. Make decisions at [the last responsible moment](https://innolution.com/resources/glossary/last-responsible-moment-lrm).
 3. **PDCA cycle (Plan-Do-Check-Act).** Plan. Follow the plan. Compare the result with expectations. Adjust the plan and method of work based on errors. Repeat.
 4. **OODA cycle (Observation-Orientation-Decision-Action).** Determine where you are, be aware of the options available, make a choice and act!
+
+## 5. Loses
+1. **Elimination of losses is the first goal of management and business.** Any loss in the workflow is the crime
+2. **Consistency.** Work is faster and better if you do one thing at a time.
+3. **Finish what you started.** Half done does not bring value. It is more rational to take a particular task and bring it to the end.
+4. **Get the result the first time.** Work should performed efficiently right away. [Test driven development](http://agiledata.org/essays/tdd.html) and [pair programming](https://www.agilealliance.org/glossary/pairing) to help.
+5. **Hard work creates additional work.** There is a limit to the number of reasonable decisions a person has per day. Tired employees are ineffective. The optimal work week is a little less than 40 hours.
+6. **Absurdity.** Unattainable goals only cause depression.
+7. **No heroism.** If heroism is needed to meet deadlines, then there is a mistake in planning.
+8. **Overload.** Avoid illogical tasks, unnecessary reporting, meaningless meetings.
+9. **No assholes.** The atmosphere in the team must be healthy. If the team has a toxic asshole, then you need to do something with it.
