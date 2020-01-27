@@ -116,7 +116,19 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 10. **Watch the dynamics.** Every team should know how much work it does per sprint.
 11. **Dynamics x time = result.** Having learned the dynamics of the team, we can assume the end of the project.
 12. **How to carry out an effective planning:**
-   * Team answers two questions: 
+   * The team answers two questions: 
       * What the team will deliver to the customer in this sprint?
       * How the team will finish its work?
+   * The team follows the rules:
+      * Starting with backlog means starting with users.
+      * Be realistic in evaluating what you can deliver to customer.
+      * Change the plan if necessary. Plans are worthless, but planning is necessary.
+      * Make everyone talk about product value.
+   * The team follows the rules:
+      * The meeting is divided into two parts, up to four hours each for a monthly sprint
+      * PO prioritizes backlog.
+      * In the first part, the PO with the team selects the stories that will be delivered at the end of the sprint, based on their significance and estimation of the amount of work. Estimation is based on [poker planning with the Fibonacci sequence](https://en.wikipedia.org/wiki/Planning_poker). For each story DoR is formulated.
+      * The team captures Scope and promises to show the product at the end of the sprint, including the entire Scope.
+      * In the second part, the team splits stories into individual tasks that will actually be performed. For each task, DoD is formulated.
+      * The team starts to work. No tasks distributed at the start of the sprint. Each person independently takes the next task as soon as he finishes the previous one.
       
