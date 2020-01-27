@@ -132,7 +132,7 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
       * In the second part, the team splits stories into individual tasks that will actually be performed. For each task, DoD is formulated.
       * The team starts to work. No tasks distributed at the start of the sprint. Each person independently takes the next task as soon as he finishes the previous one.
 
-## 8. Daily meetings
+## 8. Daily meeting
 1. **Linus`s law.** With enough eyes, every errors lie on the surface.
 2. **Rules.** Performed standing. At the same time in the morning. At the scrum board. No more than 15 minutes. The whole team must be present. The presence of users and stakeholders is encouraged, but they should not interfere.
 3. **Principles.** The team must follow the following principles:
