@@ -2,7 +2,7 @@
 > One minute to learn. The whole life to cultivate yourself
 
 **Hi!** This cheat sheet about the Agile was created in order to revise the variety of principles and practices that 
-live in the Agile\`s world, including the Agile itself, Scrum, Extrem Programming, and Kanban. I tried to
+live in the Agile\`s world, including the Agile itself, Scrum, Extreme Programming, and Kanban. I tried to
 make the document succinct keeping its avail. Don\`t consider this text as a textbook. Use it for revisions.
 It\`s just a cheat sheet :)
 
@@ -87,3 +87,17 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 7. **No heroism.** If heroism is needed to meet deadlines, then there is a mistake in planning.
 8. **Overload.** Avoid illogical tasks, unnecessary reporting, meaningless meetings.
 9. **No assholes.** The atmosphere in the team must be healthy. If the team has a toxic asshole, then you need to do something with it.
+
+## 6. Team
+1. **The Great Team.** Multifunctional, autonomous, open, free to make decisions in order to improve its capabilities.
+2. **Team size.** From 3 to 9 people. If it is difficult to understand who is doing what, then the speed of work is lost.
+3. **Product Owner (PO).** The main member of the team. Possesses high credentials in the company. He has managerial competencies and is versed in the product. And:
+   * Responsible for setting strategic goals.
+   * Identifies the main needs for the product and broadcasts them to a team.
+   * Understands what functionality the team could potentially supply.
+   * Finds out which functionality is most valuable to customer, and which one is secondary.
+   * Works with a team to understand which functionality is easier to create, and which is harder.
+   * Uses the concept of value, uncertainty, complexity and more to help the team choose the right features for creating a product in every sprint.
+   * Shares product information with other company employees to help the team prepare the next version of the product.
+4. **Scrum master.** Leads the team to process improvement. Does not blame, does not punish, but collects facts and supports. Eliminates losses and provides everything necessary for working in the sprint.
+5. **Member of a team.** Together with teammates decides how to accomplish tasks. Responsible for product value. Abuses to [the hallway testing](https://www.techopedia.com/definition/30678/hallway-usability-testing), follows the principles of Extreme Programming.
