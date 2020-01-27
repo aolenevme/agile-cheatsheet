@@ -137,5 +137,17 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 2. **Rules.** Performed standing. At the same time in the morning. At the scrum board. No more than 15 minutes. The whole team must be present. The presence of users and stakeholders is encouraged, but they should not interfere.
 3. **Principles.** The team must follow the following principles:
    * Take the example from the Pig.
-   * 
+   * Lead a discussion about the tasks live.
+   * Alternate the right to direct the work of the team. Choose a host.
+   * Do not take it as a ritual.
+   * Everybody participates.
+   * Do not treat this as a status-meeting.
+   * Check every task.
+   * Change the plan, if necessary, with the participation of PO.
+4. **Questions.** Scrum-master sets the following the questions:
+   * What did you do yesterday to help the team complete the sprint?
+   * What will you do today to help the team complete the sprint?
+   * What are the barriers to the team?
+5. **Changes.** Next, the team updates the scrum board and graphics. If questions arise that require discussion, an additional meeting is immediately organized.
+   
    
