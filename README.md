@@ -125,10 +125,17 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
       * Change the plan if necessary. Plans are worthless, but planning is necessary.
       * Make everyone talk about product value.
    * The team follows the rules:
-      * The meeting is divided into two parts, up to four hours each for a monthly sprint
+      * The meeting is divided into two parts, up to four hours each for a monthly sprint.
       * PO prioritizes backlog.
       * In the first part, the PO with the team selects the stories that will be delivered at the end of the sprint, based on their significance and estimation of the amount of work. Estimation is based on [poker planning with the Fibonacci sequence](https://en.wikipedia.org/wiki/Planning_poker). For each story DoR is formulated.
       * The team captures Scope and promises to show the product at the end of the sprint, including the entire Scope.
       * In the second part, the team splits stories into individual tasks that will actually be performed. For each task, DoD is formulated.
       * The team starts to work. No tasks distributed at the start of the sprint. Each person independently takes the next task as soon as he finishes the previous one.
-      
+
+## 8. Daily meetings
+1. **Linus`s law.** With enough eyes, every errors lie on the surface.
+2. **Rules.** Performed standing. At the same time in the morning. At the scrum board. No more than 15 minutes. The whole team must be present. The presence of users and stakeholders is encouraged, but they should not interfere.
+3. **Principles.** The team must follow the following principles:
+   * Take the example from the Pig.
+   * 
+   
