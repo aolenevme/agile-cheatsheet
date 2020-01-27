@@ -94,10 +94,29 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 3. **Product Owner (PO).** The main member of the team. Possesses high credentials in the company. He has managerial competencies and is versed in the product. And:
    * Responsible for setting strategic goals.
    * Identifies the main needs for the product and broadcasts them to a team.
-   * Understands what functionality the team could potentially supply.
+   * Understands what functionality the team could potentially deliver.
    * Finds out which functionality is most valuable to customer, and which one is secondary.
    * Works with a team to understand which functionality is easier to create, and which is harder.
    * Uses the concept of value, uncertainty, complexity and more to help the team choose the right features for creating a product in every sprint.
    * Shares product information with other company employees to help the team prepare the next version of the product.
 4. **Scrum master.** Leads the team to process improvement. Does not blame, does not punish, but collects facts and supports. Eliminates losses and provides everything necessary for working in the sprint.
 5. **Member of a team.** Together with teammates decides how to accomplish tasks. Responsible for product value. Abuses to [the hallway testing](https://www.techopedia.com/definition/30678/hallway-usability-testing), follows the principles of Extreme Programming.
+
+## 7. Sprint
+1. **The shorter the better.** Always the same size. From a week to a month.
+2. **Customer Expectations.** At the beginning of the sprint, you need to work on forming the correct expectations for the client from the next sprint.
+3. **Stories.** Story is customer expectations. It must be worded correctly: “Like X, I want Y, for to Z”.
+4. **Backlog.** List of all product stories and tasks ordered by importance.
+5. **Scope.** List of stories and tasks for the sprint from the backlog. Scope is locked. No one changes the requirements and
+   expands the list. Intervention slows down the work.
+6. **Definition of Ready.** Each story must comply with the principles of [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) before taking it to sprint. PO writes DoR. [Example](https://medium.com/@morgler/what-are-dod-and-dor-in-scrum-14894e0b3d0d).
+7. **Definition of Done.** A list of criteria that a task must meet in order to be considered completed. DoD is written by the team in the second part of sprint planning. [Example](https://medium.com/@morgler/what-are-dod-and-dor-in-scrum-14894e0b3d0d).
+8. **Assessment of tasks.** Use [poker planning with the Fibonacci sequence](https://en.wikipedia.org/wiki/Planning_poker) to evaluate tasks.
+9. **PO is responsible for the volume of a sprint.** If any team member understands that the sprint is in danger, the team will immediately notify the PO. He communicates with customers - and adjusts scope. If the team understands that it will finish the sprint before the end of the sprint, then you can expand the scope from the backlog.
+10. **Watch the dynamics.** Every team should know how much work it does per sprint.
+11. **Dynamics x time = result.** Having learned the dynamics of the team, we can assume the end of the project.
+12. **How to carry out an effective planning:**
+   * Team answers two questions: 
+      * What the team will deliver to the customer in this sprint?
+      * How the team will finish its work?
+      
