@@ -154,3 +154,25 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 1. **Demonstration.** At the end of the sprint, the team demonstrates working product and listen to criticism. So team understands what has been done wrong and what the client wants.
 2. **Done.** No tasks are considered to be completed without endorsement of software and customers.
 3. **Changes.** If changes are necessary, they are taken into account when planning the next sprint.
+
+## 10. Retrospective
+1. **Friendliness.** No one should take defensive position.
+2. **Sprint questions.** It is not a product that is being discussed, but how the team worked. Therefore, each answers the following questions:
+   * How to improve collaboration in the next sprint?
+   * What obstacles were in this sprint?
+   * Why are we not progressing as fast as we want?
+3. **Index of happiness.** If you carefully monitor the index of happiness, then you can immediately note the future discord in the team and quickly fix it. Therefore, each participant must answer several questions on which you can schedule a team satisfaction:
+   * Rate your role in the company on a scale from one to five?
+   * Rate the company in general from one to five?
+   * Why do you think so?
+   * What is the thing that will make you happier in the next sprint?
+4. **Non-functional backlog.** Scrum-master notes all the improvements that have occurred since the last sprint. All requests for process improvement should be made out as non-functional backlog elements.
+
+## 11. Charts
+1. **Scrum board.**
+![Scrum rugby](./images/scrum-task-board.png)
+2. **[Burn down chart.](https://en.wikipedia.org/wiki/Burn_down_chart)** It can be built for both the sprint and the entire project.
+3. **Happiness chart.** Based on the results of questions during retrospectives, you can build a chart of the index of happiness.
+
+# III. Extreme Programming
+> This is the essence of programming. The actual question is, are you really sure that the code you just wrote works?
