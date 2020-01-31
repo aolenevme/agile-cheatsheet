@@ -176,3 +176,35 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 
 # III. Extreme Programming
 > This is the essence of programming. The actual question is, are you really sure that the code you just wrote works?
+
+## 1. The values of XP
+1. **Communication.** Each team member knows what the rest are doing.
+2. **Simplicity.** Developers try to create the simplest and most direct solution.
+3. **Feedback.** Continuous testing and feedback.
+4. **Courage.** Each member of the group aimed at choosing the best solutions for the project, even if it means abandoning unsuccessful decisions or requires some kind of approach.
+
+## 2. The principles of XP
+1. **Humanism.** Remember that software is created by people and there is a balance between the needs of each team member and the project itself.
+2. **Economy.** There is always someone who pays for the development of software, and everyone should consider the size of the budget.
+3. **Mutual benefit.** Look for practices that benefit the individual programmer, team, and client at the same time.
+4. **Similarity.** Monthly, weekly and daily cycles are built according to one pattern.
+5. **Improvement.** Perform today's task as well as possible and think about how to make tomorrow work even better.
+6. **Diversity.** Combine different opinions and views to get the best result.
+7. **Reflection.** During the development of software, good teams constantly discuss the correctness of their actions to implement the project.
+8. **Flow.** Continuous delivery means the continuous delivery of developer work results, not divided into stages.
+9. **Opportunity.** Every problem facing the team is a chance to learn something new about software development.
+10. **Redundancy.** Although at first glance this may seem wasteful, redundancy avoids serious quality problems.
+11. **Failure.** Failures can teach a lot. There is nothing wrong with trying approaches that don't work.
+12. **Quality.** It is impossible to ensure the speed of delivery by reducing the quality of the product.
+13. **Acceptance of responsibility.** If someone takes responsibility, then he must have the authority to fulfill the promise.
+14. **Small steps.** It is better to take small steps in the right direction than to make grandiose changes when introducing new methods.
+
+## 3. The programming practices
+1. Test Driven Development.
+2. Pair Programming.
+
+## 4. The integration practices
+1. **10 minute build.** The team creates an automated assembly for the entire code base, which lasts 10 minutes. This assembly includes the automatic launch of all tests and the generation of reports on them.
+2. **An adjusted CI/CD.**
+
+## 5. The planning practices
