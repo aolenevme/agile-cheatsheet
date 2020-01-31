@@ -247,8 +247,8 @@ Leaders tend to demand commitment, and teams often overstate them. Backlog eleme
    * Extra movements.
    * Defects.
 
-## 4. Five “Why.” 
-Use [the five “why”](https://en.wikipedia.org/wiki/Five_whys) method to get to the root of the problem.
+## 4. Five “Whys”.
+Use [the five “whys”](https://en.wikipedia.org/wiki/Five_whys) method to get to the root of the problem.
 
 ## 5. [Pull system.](https://softwareengineering.stackexchange.com/questions/140317/what-is-the-difference-from-the-push-and-pull-development-models) 
 A way to execute a project or process that uses queues to remove obstacles.
