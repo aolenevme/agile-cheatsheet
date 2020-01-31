@@ -208,3 +208,17 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 2. **An adjusted CI/CD.**
 
 ## 5. The planning practices
+1. **Weekly development cycle.** Same as Scrum Sprint.
+2. **Quarterly cycle.** Same as Scrum retrospective, only every 3 months. Some XP teams just do retrospectives at the end of every second week.
+3. **Temporary stock.** The team adds small, lower priority stories to each weekly cycle. During planning, they are divided into tasks, but they are not started until the end of the sprint. And then, if a team encounters unexpected problems, it excludes these “spare stories” from the iteration and still delivers a working product at the end of the sprint.
+
+## 6. The team practices
+1. **Coallocation.** The team is located in the same room, since developers are required high social activity.
+2. **Informative workspace.** The team’s work environment is designed so that important project information is shared with all participants. The use of a large task board and a burn down chart that hang so that everyone can see them.
+3. **Osmotic communication.** Discussions take place in a common workspace, and not in closed conference rooms. As a result, others involuntarily hear them and absorb information about what is happening.
+
+## 7. The compound practices
+1. **Get rid of a smelly code.** Correction of technical debt through ruthless refactoring.
+2. **Incremental architecture.** This is an architecture created from the work of small independent modules. The adoption of architectural decisions at the [last responsible moment](https://innolution.com/resources/glossary/last-responsible-moment-lrm) makes it possible to avoid trying to create everything at once. Thus, any team member is convinced that it is faster to create a small unconnected part of the system today and entrust the team with making corrections in the future. Closely bordered by TDD and the pursuit of simplicity.
+3. **Energetic work.** This is the creation of an environment in which each team member has enough time and freedom to do their job. This maintains their mental state in which they are able to develop and use good habits leading to better, naturally replaceable code. In this state, they can produce much more code and deliver more valuable features to consumers in less time.
+4. **One team.** Overcoming obstacles and making decisions that affect the direction of the project are taken jointly. All team members learn to trust each other and determine which decisions can be made independently and which decisions can be made by the team as a whole.
