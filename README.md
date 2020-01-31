@@ -200,8 +200,8 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 14. **Small steps.** It is better to take small steps in the right direction than to make grandiose changes when introducing new methods.
 
 ## 3. The programming practices
-1. Test Driven Development.
-2. Pair Programming.
+1. **Test Driven Development.**
+2. **Pair Programming.**
 
 ## 4. The integration practices
 1. **10 minute build.** The team creates an automated assembly for the entire code base, which lasts 10 minutes. This assembly includes the automatic launch of all tests and the generation of reports on them.
@@ -222,3 +222,10 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 2. **Incremental architecture.** This is an architecture created from the work of small independent modules. The adoption of architectural decisions at the [last responsible moment](https://innolution.com/resources/glossary/last-responsible-moment-lrm) makes it possible to avoid trying to create everything at once. Thus, any team member is convinced that it is faster to create a small unconnected part of the system today and entrust the team with making corrections in the future. Closely bordered by TDD and the pursuit of simplicity.
 3. **Energetic work.** This is the creation of an environment in which each team member has enough time and freedom to do their job. This maintains their mental state in which they are able to develop and use good habits leading to better, naturally replaceable code. In this state, they can produce much more code and deliver more valuable features to consumers in less time.
 4. **One team.** Overcoming obstacles and making decisions that affect the direction of the project are taken jointly. All team members learn to trust each other and determine which decisions can be made independently and which decisions can be made by the team as a whole.
+
+# IV. Lean. Lean thinking.
+> If stupid enters the room, you have a moral duty to shoot it, no matter who's escorting it. — Keoki Andrus, Beautiful Teams
+
+## 1. Values
+1. **Eliminate losses.** Identify the work that do not create value, and get rid of it.
+2. **Strengthen training.** Use feedback to improve your work.
