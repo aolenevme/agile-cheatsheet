@@ -229,3 +229,29 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
 ## 1. Values
 1. **Eliminate losses.** Identify the work that do not create value, and get rid of it.
 2. **Strengthen training.** Use feedback to improve your work.
+3. **Make your decision as late as possible.** Make all the important decisions about the project, having a maximum of information about it - that is, at the last responsible moment.
+4. **Deliver value as early as possible.** Analyze the real cost of delays and minimize it with pull systems and queues.
+5. **Unleash your team.** Create a focused and efficient work environment and bring together energetic people.
+6. **Achieve integrity.** Create a product that is intuitive for users and works according to their expectations.
+7. **Watch the big picture.** Try to thoroughly understand the work that your project is doing. Use the correct measurement methods to make sure that you really see even the smallest details.
+
+## 2. Variant thinking. 
+Leaders tend to demand commitment, and teams often overstate them. Backlog elements can be perceived by the team as obligations because they were discussed during sprint planning. But these are not obligations, but options. We know this because PO can remove them from the sprint. It is necessary to separate the **true commitment** (delivery of a valuable working product) from the **optional variants** (providing specific functionality by a certain date). Thus, several variants for the implementation of the functional can exist on the board, which gives the team more flexibility.
+
+## 3. Examples of losses:
+   * Partially done work.
+   * Additional processes.
+   * Extra features.
+   * Switch between tasks.
+   * Expectation.
+   * Extra movements.
+   * Defects.
+
+## 4. Five “Why.” 
+Use [the five “why”](https://en.wikipedia.org/wiki/Five_whys) method to get to the root of the problem.
+
+## 5. [Pull system.](https://softwareengineering.stackexchange.com/questions/140317/what-is-the-difference-from-the-push-and-pull-development-models) 
+A way to execute a project or process that uses queues to remove obstacles.
+
+## 6. Charts:
+   * [Value-stream mapping.](https://en.wikipedia.org/wiki/Value-stream_mapping)
