@@ -255,3 +255,39 @@ A way to execute a project or process that uses queues to remove obstacles.
 
 ## 6. Charts:
    * [Value-stream mapping.](https://en.wikipedia.org/wiki/Value-stream_mapping)
+   
+# V. Kanban. The practice of stabilizing and improving the product development system.
+> Kanban is not a project management system. This is a method to improve the development process: the steps that the team takes to improve the creation and delivery of the product.
+
+## 1. Goal.
+Search for recurring problems, find out their commonality and create correction tools
+
+## 2. A starting point.
+Each team has a production strategy to create a product. It is chaotic and often changes. Define it and begin evolution.
+
+## 3. Work item.
+This is a unit of work at Kanban. This is usually a story from Scrum.
+
+## 4. Flow.
+The speed with which work items move around the system. When a team finds the optimal pace for delivery combined with convenient feedback, it maximizes flow. Reducing uneven work and congestion, the ability to complete one task and only then move on to the next increases the flow.
+
+## 5. Principles:
+   * Start with what you are doing now, respect your roles, responsibilities and job descriptions.
+   * Agree on evolutionary development.
+   * Encourage leadership at all levels.
+
+## 6. Practices:
+   * Visualize.
+   * Limit the number of tasks in work (WIP).
+   * Control the flow.
+   * Make the rules explicit.
+   * Enter feedback loops.
+   * Develop together and experiment (use modeling or a scientific approach).
+
+## 7. Charts:
+1. **Kanban board.** A tool that a team uses to visualize a workflow. It must be conducted according to the following principles:
+   * **Adaptation.** Form it for your product delivery strategy.
+   * **Content.** Kanban-board contains only stories and does not show tasks.
+   * **WIP limits.** For each column, a workload limit can be set.
+   * **More details.** All about [how to run a kanban board](https://www.atlassian.com/agile/kanban/wip-limits).
+2. **Cumulative Flow Diagram (CFD).** [What is it and how to use it?](https://kanbanize.com/kanban-resources/kanban-analytics/cumulative-flow-diagram/)
