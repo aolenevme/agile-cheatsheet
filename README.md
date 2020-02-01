@@ -260,7 +260,7 @@ A way to execute a project or process that uses queues to remove obstacles.
 > Kanban is not a project management system. This is a method to improve the development process: the steps that the team takes to improve the creation and delivery of the product.
 
 ## 1. Goal.
-Search for recurring problems, find out their commonality and create correction tools
+Search for recurring problems, find out their commonality and create correction tools.
 
 ## 2. A starting point.
 Each team has a production strategy to create a product. It is chaotic and often changes. Define it and begin evolution.
