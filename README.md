@@ -150,7 +150,7 @@ The word “Scrum” is taken from rugby and denotes a team game method that all
    * What are the barriers to the team?
 5. **Changes.** Next, the team updates the scrum board and graphics. If questions arise that require discussion, an additional meeting is immediately organized.
 
-## 9. Demo
+## 9. Sprint Review
 1. **Demonstration.** At the end of the sprint, the team demonstrates working product and listen to criticism. So team understands what has been done wrong and what the client wants.
 2. **Done.** No tasks are considered to be completed without endorsement of software and customers.
 3. **Changes.** If changes are necessary, they are taken into account when planning the next sprint.
