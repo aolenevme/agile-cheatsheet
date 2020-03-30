@@ -8,7 +8,7 @@ It\`s just a cheat sheet :)
 
 ## Feedback. Happy to read.
 ~~~
-Email: hello@aolenev.med
+Email: hello@aolenev.me
 ~~~
 
 ## Foreword
