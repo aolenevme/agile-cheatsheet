@@ -1,4 +1,4 @@
-# The Agile cheat sheet
+# The Agile Cheat Sheet 🏈
 > One minute to learn. The whole life to cultivate yourself
 
 **Hi!** This cheat sheet about the Agile was created in order to revise the variety of principles and practices that 
