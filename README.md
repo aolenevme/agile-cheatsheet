@@ -1,15 +1,14 @@
-# The Agile Cheat Sheet 🏈
-> One minute to learn. The whole life to cultivate yourself
+<div align="center">
 
-**Hi!** This cheat sheet about the Agile was created in order to revise the variety of principles and practices that 
-live in the Agile\`s world, including the Agile itself, Scrum, Extreme Programming, and Kanban. I tried to
-make the document succinct keeping its avail. Don\`t consider this text as a textbook. Use it for revisions.
-It\`s just a cheat sheet :)
+![american football emoji](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/american-football_1f3c8.png)
 
-## Feedback. Happy to read.
-~~~
-Email: hello@aolenev.me
-~~~
+# The Agile Cheat Sheet
+
+**One minute to learn. The whole life to cultivate yourself!**
+
+This Agile cheat sheet was created to revise the various principles and practices in the Agile world, including Agile itself, Scrum, Extreme Programming, and Kanban. I tried to make the document succinct, keeping its avail. Don`t consider this text as a textbook. Use it for revisions! 😊
+
+</div>
 
 ## Foreword
 ![Scrum rugby](./images/scrum-rugby.jpg)
