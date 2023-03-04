@@ -1,8 +1,6 @@
 <div align="center">
 
-![american football emoji](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/american-football_1f3c8.png)
-
-# The Agile Cheat Sheet
+# The Agile Cheat Sheet 🏈
 
 **One minute to learn. The whole life to cultivate yourself!**
 
